@@ -1,2 +1,2 @@
-# collaboration
-Hook manager for collaborations
+# partnership
+Hook manager for partnership via dollibarr
